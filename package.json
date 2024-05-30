@@ -1,6 +1,6 @@
 {
-	"name": "mulle",
-	"version": "3.0.8",
+	"name": "mulle24",
+	"version": "1.0.0",
 	"description": "",
 	"main": "index.js",
 	"scripts": {
@@ -11,11 +11,11 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+ssh://git@bitbucket.org/MrBrax/mulle.js.git"
+		"url": "https://github.com/mariusfranzen/mulle.js.git"
 	},
-	"author": "",
+	"author": "Bitbyte - Original author MrBrax",
 	"license": "ISC",
-	"homepage": "https://bitbucket.org/MrBrax/mulle.js#readme",
+	"homepage": "https://github.com/mariusfranzen/mulle.js",
 	"devDependencies": {
 		"babel-core": "^6.26.3",
 		"babel-loader": "^9.1.3",
